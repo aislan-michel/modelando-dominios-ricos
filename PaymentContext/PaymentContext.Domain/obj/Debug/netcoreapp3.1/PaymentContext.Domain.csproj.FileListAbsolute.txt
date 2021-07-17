@@ -1,0 +1,12 @@
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netcoreapp3.1\PaymentContext.Domain.deps.json
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netcoreapp3.1\PaymentContext.Domain.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netcoreapp3.1\PaymentContext.Domain.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.1\PaymentContext.Domain.csprojAssemblyReference.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.1\PaymentContext.Domain.AssemblyInfoInputs.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.1\PaymentContext.Domain.AssemblyInfo.cs
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.1\PaymentContext.Domain.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.1\PaymentContext.Domain.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.1\PaymentContext.Domain.csproj.CopyComplete
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netcoreapp3.1\PaymentContext.Domain.csproj.CoreCompileInputs.cache

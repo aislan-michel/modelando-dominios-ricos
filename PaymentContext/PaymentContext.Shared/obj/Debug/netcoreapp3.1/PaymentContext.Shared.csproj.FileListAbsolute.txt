@@ -1,0 +1,9 @@
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.deps.json
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.AssemblyInfoInputs.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.AssemblyInfo.cs
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.csprojAssemblyReference.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\balta.io\Modelando Dominios Ricos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.csproj.CoreCompileInputs.cache

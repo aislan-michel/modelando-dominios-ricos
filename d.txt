@@ -1,0 +1,7 @@
+Aluno pode realizar uma assinatura,
+essa assinatura pode ser feita através do PayPal, cartão de credito ou boleto
+ 
+
+1 aluno: 1 assinatura
+
+1 assinatura : N pagamentos
